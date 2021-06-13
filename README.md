@@ -6,18 +6,49 @@ This is a CTF writeup by ACS (Applied Cyber Security Society)for BCACTF 2.0.
 
 ## Table of Contents
 
-### Misc
+<details>
+<summary>Misc</summary>
 
-### Binex
+|Question|Points|
+|-|-|
 
-### Crypto
+</details>
+<details>
+<summary>Binex</summary>
 
-### Foren
+|Question|Points|
+|-|-|
 
-### Rev
+</details>
+<details>
+<summary>Crypto</summary>
 
-### Webex
+|Question|Points|
+|-|-|
+
+</details>
+<details>
+<summary>Foren</summary>
+
+|Question|Points|
+|-|-|
+
+</details>
+<details>
+<summary>Rev</summary>
+
+|Question|Points|
+|-|-|
+
+</details>
+<details>
+<summary>Webex</summary>
+
+|Question|Points|
+|-|-|
+
+</details>
 
 ## Contributors
 Thanks to all the contributors who solved challenges and submitted writeups to this repository:
-* Add your name here when PR'ing*
+![Contributors](https://contrib.rocks/image?repo=AppliedCyberCTF/BCACTF-2.0-2021)
