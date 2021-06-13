@@ -2,7 +2,7 @@
 June 10th - June 13th
 
 ## About
-This is a CTF writeup by ACS (Applied Cyber Security Society)for BCACTF 2.0.
+This is a CTF writeup by ACS (Applied Cyber Security Society) for BCACTF 2.0.
 
 ## Table of Contents
 
@@ -25,6 +25,7 @@ This is a CTF writeup by ACS (Applied Cyber Security Society)for BCACTF 2.0.
 
 |Question|Points|
 |-|-|
+|[Little e](./Crypto/Little%20e.md)|100|
 
 </details>
 <details>
@@ -32,6 +33,9 @@ This is a CTF writeup by ACS (Applied Cyber Security Society)for BCACTF 2.0.
 
 |Question|Points|
 |-|-|
+|[Infinite Zip](./Foren/Infinite%20Zip.md)|75|
+|[Zstegosaurus](./Foren/Zstegosaurus.md)|75|
+|[Gerald's New Job](./Foren/Gerald's%20New%20Job.md)|100|
 
 </details>
 <details>
@@ -46,6 +50,9 @@ This is a CTF writeup by ACS (Applied Cyber Security Society)for BCACTF 2.0.
 
 |Question|Points|
 |-|-|
+|[Home Automation](Web/Home%20Automation.md)|75|
+|[Wasm Protected Site 1](./Web/Wasm%20Protected%20Site%201.md)|100|
+|[Agent Gerald](./Web/Agent%20Gerald.md)|125|
 
 </details>
 
