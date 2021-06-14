@@ -57,5 +57,5 @@ This is a CTF writeup by ACS (Applied Cyber Security Society) for BCACTF 2.0.
 </details>
 
 ## Contributors
-Thanks to all the contributors who solved challenges and submitted writeups to this repository:
+Thanks to all the contributors who solved challenges and submitted writeups to this repository:  
 ![Contributors](https://contrib.rocks/image?repo=AppliedCyberCTF/BCACTF-2.0-2021)
