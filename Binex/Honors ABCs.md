@@ -20,7 +20,7 @@ In order to read our input, the [gets](https://man7.org/linux/man-pages/man3/get
 
 The goal is to get a score greater than 100, as that will present us with the flag. Our only options appears to be causing a buffer overflow to occur, so that we can set the score to whatever value we like. In order to figure out how many characters I need to input before we get to the score variable, I decided to load the binary up in [Ghidra](https://ghidra-sre.org/), to look at the decompiled code.
 
-![image](../.github/honors-abcs-1.jpg)
+![image](Docs/honors-abcs-1.jpg))
 
 As we can see in the decompiler output, our input alphabet is stored in local_58(rbp-0x50), and the score is stored in local_c(rbp-0x04), substracting the two gives us 0x4C or 76 characters. To prevent our custom score from being overwritten we have to ensure that the very first character of our input is not equal to "a", so that we break out of the scoring loop before any score is set.
 
