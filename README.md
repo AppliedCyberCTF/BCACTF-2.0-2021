@@ -19,6 +19,7 @@ This is a CTF writeup by ACS (Applied Cyber Security Society) for BCACTF 2.0.
 |Question|Points|
 |-|-|
 |[BCA-Mart](./Binex/BCA-Mart.md)|75|
+|[Honors ABCs](Binex/Honors%20ABCs.md)|75|
 
 </details>
 <details>
