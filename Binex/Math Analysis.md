@@ -34,7 +34,7 @@ The address at the top of the stack is where our return address should be locate
 
 ![Image](Docs/math-analysis-3.jpg)
 
-Now that we figured out where to store the return address it's time to get the address of the `cheat` function. The intended solution was to read this from the output of the binary, because it prints the address to the console, but because the binary is not hardened with `PIE` we can simply hardcode the address, making the script very straightforward.
+Now that we figured out where to store the return address it's time to get the address of the `cheat` function. The intended solution was to read this from the output of the binary, because it prints the address to the console, but because the binary is not hardened with `PIE` we can simply hardcode the address, making the script very straightforward. Running the executable once reports `For example, here's a number: 4198998.` which is `0x401256` in hex.
 
 ```python
 from pwn import *
