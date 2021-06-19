@@ -1,7 +1,7 @@
 # BCACTF 2.0 – Math Analysis
 
 * **Category:** Binex
-* **Points:** 75
+* **Points:** 150
 * **Author:** [Wesley V](https://github.com/retoxified)
 
 ## Challenge
