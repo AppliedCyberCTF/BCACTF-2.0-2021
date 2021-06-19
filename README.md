@@ -22,6 +22,7 @@ This is a CTF writeup by ACS (Applied Cyber Security Society) for BCACTF 2.0.
 |[Honors ABCs](Binex/Honors%20ABCs.md)|75|
 |[AP ABCs](Binex/AP%20ABCs.md)|100|
 |[American Literature](Binex/American%20Literature.md)|150|
+|[Math Analysis](Binex/Math%20Analysis.md)|150|
 
 </details>
 <details>
