@@ -18,7 +18,7 @@ In order to read our input, the [gets](https://man7.org/linux/man-pages/man3/get
 
 Like the previous challenge I decided to load the binary up in [Ghidra](https://ghidra-sre.org/) to look at the decompiled code to figure out how many characters we need to get to the score.
 
-![image](Docs/ap-abcs-1.jpg))
+![image](Docs/ap-abcs-1.jpg)
 
 As we can see in the decompiler output, our input alphabet is stored in local_58(rbp-0x50), and the score is stored in local_c(rbp-0x04), substracting the two gives us 0x4C or 76 characters, the same as the previously challenge. To prevent our custom score from being overwritten we have to ensure that the very first character of our input is not equal to "a", so that we break out of the scoring loop before any score is set.
 
